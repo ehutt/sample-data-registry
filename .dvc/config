@@ -1,0 +1,4 @@
+[core]
+    remote = datasets
+['remote "datasets"']
+    url = /Users/elhutton/local-remote
