@@ -1,0 +1,7 @@
+md5: 78857229e408e1664a6f2bce3850b649
+outs:
+- md5: 8927cd73c63cb4eeafb59f080ea23888
+  path: recording.wav
+  cache: true
+  metric: false
+  persist: false
